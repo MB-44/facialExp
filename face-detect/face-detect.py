@@ -1,12 +1,7 @@
-# packages 
-from collections import OrderedDict;
+import cv2; 
 import numpy as np;
-import cv2;
-import argparse;
-import imutils;
-
-
-
+# import dlib;
+# import face_recognition;
 
 if __name__ == "__main__":
     pass
